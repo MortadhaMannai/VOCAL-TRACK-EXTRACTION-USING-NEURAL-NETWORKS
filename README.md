@@ -7,8 +7,7 @@ Paper links :
 
   1- zendo.org : https://zenodo.org/record/8274725
 
-   2- OpenAir.com : https://explore.openaire.eu/search/publication? 
-  pid=10.5281%2Fzenodo.8267702&fbclid=IwAR13OfUARkpyVk1jzk2fFoqaxVeNz2xbDwNySsu8vCV0FxwslG0eI8hqx90
+   2- OpenAir.com : https://explore.openaire.eu/search/publication?pid=10.5281%2Fzenodo.8267702&fbclid=IwAR13OfUARkpyVk1jzk2fFoqaxVeNz2xbDwNySsu8vCV0FxwslG0eI8hqx90
    
 
 ## Introduction
