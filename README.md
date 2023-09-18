@@ -1,5 +1,6 @@
 # Vocal Track Extraction
 Author: Mortadha Manai
+Report Link :https://github.com/MortadhaMannai/VOCAL-TRACK-EXTRACTION-USING-NEURAL-NETWORKS/blob/main/Report.pdf
 
 ## Introduction
 There are four models in this project: Deep Clustering Model, Hybrid Deep Clustering Model, U-net Model and UH-net Model. Models are trained on DSD100 dataset. The project is based on PyTorch.
